@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.osf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "osf.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DefaultSkinMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
